@@ -25,14 +25,12 @@
   <button>Go to Login Page</button>
 </a>
         <h1>
-            Welcome to the Store
+            Welcome
         </h1>
-        <p><?php echo $offers[0]['name']; ?> =
-         $<?php echo $offers[0]['price']; ?> </p>   
-        <p><?php echo $offers[1]['name']; ?> =
-         $<?php echo $offers[1]['price']; ?> </p>       
-        
+        <p>Dep Technology is a newly fast-growing startup enabling decentralization and web3.
+We are raising in three investing rounds sponsored this upcoming October. So look out for updates. Below is a video about are vision for web3. Enjoy! </p>       
     </head>
+
 
 
 </html>
