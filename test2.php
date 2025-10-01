@@ -6,7 +6,7 @@
 <head>
         
         <title> echo Command</title>
-            <a href="https://www.youtube.com/shorts/L3R8_dNtxWY">
+            <a href="https://youtu.be/6Bs96wB_8pY">
   <button>Go to our Video!</button>
 </a>
         <h1>
