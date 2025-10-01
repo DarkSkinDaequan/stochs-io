@@ -5,7 +5,7 @@
 </body>
 
         <title> echo Command</title>
-            <a href="https://raw.githubusercontent.com/DarkSkinDaequan/stochs-io/refs/heads/main/login.php" style="text-decoration: none;">
+            <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/DarkSkinDaequan/stochs-io/refs/heads/main/login.php">
   <button>Go to our Video!</button>
 </a>
         <h1>
