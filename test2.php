@@ -16,7 +16,7 @@
 </body>
 
         <title> echo Command</title>
-            <a href="login.php" style="text-decoration: none;">
+            <a href="https://raw.githubusercontent.com/DarkSkinDaequan/stochs-io/refs/heads/main/login.php" style="text-decoration: none;">
   <button>Go to our Video!</button>
 </a>
         <h1>
