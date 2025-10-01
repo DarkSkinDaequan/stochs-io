@@ -2,7 +2,7 @@
 <html>  
 
 <body>
-</body>
+
 <head>
         
         <title> echo Command</title>
@@ -18,5 +18,5 @@ We are raising in three investing rounds sponsored this upcoming October. So loo
         
     </head>
 
-
+</body>
 </html>
