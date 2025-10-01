@@ -21,16 +21,15 @@
 </body>
 
         <title> echo Command</title>
-            <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/DarkSkinDaequan/stochs-io/refs/heads/main/login.php" style="text-decoration: none;">
-  <button>Go to Login Page</button>
+            <a href="login.php" style="text-decoration: none;">
+  <button>Go to our Video!</button>
 </a>
         <h1>
-            Welcome to the Store
+            Welcome!
         </h1>
-        <p><?php echo $offers[0]['name']; ?> =
-         $<?php echo $offers[0]['price']; ?> </p>   
-        <p><?php echo $offers[1]['name']; ?> =
-         $<?php echo $offers[1]['price']; ?> </p>       
+        <p>Dep Technology is a newly fast-growing startup enabling decentralization and web3.
+We are raising in three investing rounds sponsored this upcoming October. So look out for updates. Below is a video about are vision for web3.<br>Enjoy! 
+</p>   
         
     </head>
 
