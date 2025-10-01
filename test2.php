@@ -2,17 +2,6 @@
 <html>  
 
 <body>
-
-  <div class="lollipop">
-    <div class="stick"></div>
-  </div>
-  <div class="lollipop">
-    <div class="stick"></div>
-  </div>
-  <div class="lollipop">
-    <div class="stick"></div>
-  </div>
-  
 </body>
 
         <title> echo Command</title>
