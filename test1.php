@@ -1,10 +1,5 @@
 <!DOCTYPE html>
-<html>  
-    <?php 
-    $offers = [['name' => 'chocolate cookie','price' => 2.5],
-    ['name' => 'ice-cream','price' => 3.5]
-    ];
-    ?>
+<html> 
 
 <body>
 
@@ -34,3 +29,4 @@ We are raising in three investing rounds sponsored this upcoming October. So loo
 
 
 </html>
+
