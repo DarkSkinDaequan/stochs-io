@@ -16,7 +16,7 @@
 </body>
 
         <title> echo Command</title>
-            <a href="https://htmlpreview.github.io/?https://raw.githubusercontent.com/DarkSkinDaequan/stochs-io/refs/heads/main/login.php">
+            
   <button>Go to Login Page</button>
 </a>
         <h1>
@@ -29,5 +29,6 @@ We are raising in three investing rounds sponsored this upcoming October. So loo
 
 
 </html>
+
 
 
