@@ -7,7 +7,6 @@
         
         <title> echo Command</title>
   <button>Go to our Video!</button>
-</a>
         <h1>
             Welcome!
         </h1>
