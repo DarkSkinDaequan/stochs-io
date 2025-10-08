@@ -4,8 +4,6 @@
 <body>
 
 <head>
-        
-        <title> echo Command</title>
 
         <h1>
             Welcome!
